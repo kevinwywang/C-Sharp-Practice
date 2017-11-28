@@ -9,6 +9,7 @@ namespace RepeatingNumbers
     class Program
     {
         public static string userInput;
+        public static int noRepeating;
 
         static void Main(string[] args)
         {
@@ -18,51 +19,42 @@ namespace RepeatingNumbers
                 //Checks to see if the user has entered an input
             }
 
-            string inputToCheck;
-            string repeatingInput;
             int timesRepeated;
-            int noRepeating = 0;
+            noRepeating = 0;
+            List<string> inputsToCheck = new List<string>();
             List<string> alreadyCheckedInputs = new List<string>();
 
             for (int i = 0; i < userInput.Length; i++)
             {
                 for (int j = 2; j < userInput.Length + 1 - i; j++)
                 {
-                    timesRepeated = 1;
-                    inputToCheck = userInput.Substring(i, j);
-
-                    if (alreadyCheckedInputs.Contains(inputToCheck))
+                    inputsToCheck.Add(userInput.Substring(i,j));
+                    if (!alreadyCheckedInputs.Contains(userInput.Substring(i, j)))
                     {
-                        break;
+                        alreadyCheckedInputs.Add(userInput.Substring(i, j));
                     }
-
-                    alreadyCheckedInputs.Add(inputToCheck);
-                    
-                    for (int k = 2 + i; k < userInput.Length; k++)
-                    {
-                        for (int l = 2; l < userInput.Length + 1 - k; l++)
-                        {
-                            repeatingInput = userInput.Substring(k, l);
-                            if (inputToCheck == repeatingInput)
-                            {
-                                timesRepeated++;
-                                noRepeating++;
-                            }
-                        }
-                    }
-
-                    PrintRepeatingInput(inputToCheck, timesRepeated);
                 }
             }
 
+            foreach (string item in alreadyCheckedInputs)
+            {
+                timesRepeated = 0;
+                foreach (string list in inputsToCheck)
+                {
+                    if (item == list)
+                    {
+                        timesRepeated++;
+                    }
+                }
+                PrintRepeatingInput(item, timesRepeated);
+            }
             if (noRepeating == 0)
             {
                 Console.WriteLine(noRepeating);
             }
-
         }
 
-        private static void PrintRepeatingInput(string inputToCheck, int timesRepeated)
+        public static void PrintRepeatingInput(string inputToCheck, int timesRepeated)
         {
             switch (timesRepeated)
             {
@@ -72,6 +64,7 @@ namespace RepeatingNumbers
                     break;
                 default:
                     Console.WriteLine("{0}:{1}", inputToCheck, timesRepeated);
+                    noRepeating++;
                     break;
             }
         }
