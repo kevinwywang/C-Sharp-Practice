@@ -1,0 +1,7 @@
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\bin\Debug\MajorScales.exe.config
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\bin\Debug\MajorScales.exe
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\bin\Debug\MajorScales.pdb
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\obj\Debug\MajorScales.csprojResolveAssemblyReference.cache
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\obj\Debug\MajorScales.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\obj\Debug\MajorScales.exe
+F:\Documents\Programming\C# Programming\Practice\MajorScales\MajorScales\obj\Debug\MajorScales.pdb
