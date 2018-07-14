@@ -1,7 +1,0 @@
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\bin\Debug\WalkInAMinefield.exe.config
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\bin\Debug\WalkInAMinefield.exe
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\bin\Debug\WalkInAMinefield.pdb
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\obj\Debug\WalkInAMinefield.csprojResolveAssemblyReference.cache
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\obj\Debug\WalkInAMinefield.csproj.CoreCompileInputs.cache
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\obj\Debug\WalkInAMinefield.exe
-F:\Documents\Programming\C# Programming\Practice\WalkInAMinefield\WalkInAMinefield\obj\Debug\WalkInAMinefield.pdb

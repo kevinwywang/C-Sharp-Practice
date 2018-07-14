@@ -1,7 +1,0 @@
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.exe.config
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.exe
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.pdb
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.csprojResolveAssemblyReference.cache
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.csproj.CoreCompileInputs.cache
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.exe
-F:\Documents\Programming\C# Programming\Practice\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.pdb
