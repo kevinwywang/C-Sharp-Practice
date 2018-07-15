@@ -1,0 +1,7 @@
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\obj\Debug\FirstRecurringCharacter.csprojResolveAssemblyReference.cache
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\obj\Debug\FirstRecurringCharacter.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\bin\Debug\FirstRecurringCharacter.exe.config
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\bin\Debug\FirstRecurringCharacter.exe
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\bin\Debug\FirstRecurringCharacter.pdb
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\obj\Debug\FirstRecurringCharacter.exe
+F:\Documents\Programming\C# Programming\Practice\FirstRecurringCharacter\FirstRecurringCharacter\obj\Debug\FirstRecurringCharacter.pdb
